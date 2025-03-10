@@ -1,0 +1,11 @@
+django
+djangorestframework
+celery
+numpy
+scipy
+networkx
+scikit-fuzzy
+matplotlib
+redis
+mysqlclient
+mariadb
